@@ -125,7 +125,7 @@ header a:hover{
 /* Address */
 #address{
     text-align: center;
-    
+
 }
 
 
@@ -156,13 +156,14 @@ header a:hover{
 
 #boxes{
     margin-top: 20px;
+    align-content: center;
 }
 
 #boxes .box{
-    float: left;
-    width: 16%;
-    padding: 17px;
+    float: center;
+    
     text-align: center;
+    
 }
 
 #boxes .box img{
